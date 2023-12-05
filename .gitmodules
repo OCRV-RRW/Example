@@ -1,0 +1,6 @@
+[submodule "Assets/Plugins/BGCore"]
+	path = Assets/Plugins/BGCore
+	url = https://github.com/Ilya-ekb/BGCore.git
+[submodule "Assets/Plugins/BGame"]
+	path = Assets/Plugins/BGame
+	url = https://github.com/Ilya-ekb/BGame.git
